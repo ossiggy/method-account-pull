@@ -1,0 +1,17 @@
+{
+  "name": "account-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Mike Ossig",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "json-2-csv": "^5.0.1",
+    "method-node": "^0.3.28"
+  }
+}
